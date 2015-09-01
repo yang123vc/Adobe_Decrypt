@@ -1,8 +1,8 @@
 __author__ = 'ecnavda'
 
-EncryptedKey = '910187075487580862510254'
+EncryptedKey = '' # Encrypted key goes here
 
-AdobeCipher = []
+AdobeCipher = []  # Adobe's number swap cipher
 AdobeCipher.append('0000000001')
 AdobeCipher.append('5038647192')
 AdobeCipher.append('1456053789')
