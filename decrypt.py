@@ -40,7 +40,7 @@ def main(encryptedKey):
         decryptedKey += x[int(encryptedKey[counter])]
         counter += 1
 
-    return decryptedKey
+    print decryptedKey
 
 if __name__ == "__main__":
     main(sys.argv[1])
